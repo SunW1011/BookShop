@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "60afbb3c6e9c202868e230bf"
+    },
+    "is_admin": true,
+    "is_verify": true,
+    "email": "test@gmail.com",
+    "firstName": "test",
+    "lastName": "test",
+    "password": "123",
+    "address": "ha noi",
+    "phone_number": "12345678901",
+    "__v": 0
+  }
+]
