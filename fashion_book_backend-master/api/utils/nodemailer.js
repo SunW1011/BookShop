@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport(
 
 exports.sendEmail = async (email, token) => {
     let mailOptions = {
-        from: '"SHOOPER 👻" <kiara966.shippo@gmail.com>', // sender address
+        from: '"SHOOPER 👻" <nhatvobh2001@gmail.com>', // sender address
         to: email, // list of receivers
         subject: 'Account Verification Token', // Subject line
         text: 'Hello my friend',
